@@ -1,1 +1,2 @@
-# TDBFS-Searching-the-Graph
+My solution to the given SPOJ problem: 
+https://pl.spoj.com/problems/TDBFS/
